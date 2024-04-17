@@ -1,1 +1,1 @@
-### Restricted Boltzmann Machine (RBM) fro Movies
+### Restricted Boltzmann Machine (RBM) for Movies
